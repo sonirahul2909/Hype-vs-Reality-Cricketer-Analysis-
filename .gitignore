@@ -1,0 +1,5 @@
+data/raw/
+data/cache/
+data_demo/raw/
+__pycache__/
+*.pyc

@@ -1,0 +1,7 @@
+pandas
+numpy
+pyarrow
+streamlit>=1.50
+plotly
+requests
+vaderSentiment
